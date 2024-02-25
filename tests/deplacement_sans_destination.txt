@@ -1,0 +1,4 @@
+mkdir uno
+cd uno
+mkdir dos
+mv dos /

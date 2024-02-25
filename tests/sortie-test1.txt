@@ -1,0 +1,25 @@
+----------------- ls -----------------
+Rep1 Rep2 Rep3 
+--------------------------------------
+----------------- pwd ----------------
+/Rep1/Rep12
+--------------------------------------
+----------------- ls -----------------
+file121 file122 
+--------------------------------------
+----------------- ls -----------------
+file111 
+--------------------------------------
+---------------- print ---------------
+niveau 0 dossier / : 3  fils -> pere  
+=niveau 1 dossier Rep1 : 2  fils -> pere  
+==niveau 2 dossier Rep11 : 1  fils -> pere  Rep1
+===niveau 3 fichier file111 : 0  fils -> pere  Rep11
+==niveau 2 dossier Rep12 : 2  fils -> pere  Rep1
+===niveau 3 fichier file121 : 0  fils -> pere  Rep12
+===niveau 3 fichier file122 : 0  fils -> pere  Rep12
+=niveau 1 dossier Rep2 : 2  fils -> pere  
+==niveau 2 fichier file21 : 0  fils -> pere  Rep2
+==niveau 2 fichier file22 : 0  fils -> pere  Rep2
+=niveau 1 dossier Rep3 : 0  fils -> pere  
+--------------------------------------

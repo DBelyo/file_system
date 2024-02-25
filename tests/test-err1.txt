@@ -1,0 +1,10 @@
+mkdir Rep1
+cd Rep1
+mkdir Rep11
+cd Rep11
+mkdir Rep111
+cd Rep111
+touch file1111
+pwd
+ls
+rm /Rep1/Rep11

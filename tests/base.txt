@@ -1,0 +1,51 @@
+touch pointeur
+mkdir Mordor
+cd Mordor
+pwd
+mkdir CGT
+touch QuoicouBaaAAkkAA19
+ls
+cd CGT
+touch 1312
+ls
+cd ..
+cd ..
+ls
+cd Mordor/CGT
+cd ..
+cd ..
+cp Mordor/CGT Mordor/lasquale
+ls
+cd Mordor
+ls
+cd lasquale
+ls
+cd ../CGT
+pwd
+ls
+cd ..
+ls
+cd ..
+ls
+pwd
+mv Mordor doggo
+ls
+cd doggo
+
+
+ls
+cd CGT
+
+
+ls
+rm 1312
+ls
+cd ..
+ls
+rm CGT
+ls
+print
+cd /
+ls
+
+cd

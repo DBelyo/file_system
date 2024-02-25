@@ -1,0 +1,6 @@
+mkdir azertyuiopqsdfghjklmwxcvbn
+cd azertyuiopqsdfghjklmwxcvbn
+mkdir nbvcxwmlkjhgfdsqpoiuytreza
+cd nbvcxwmlkjhgfdsqpoiuytreza
+cd ../../azertyuiopqsdfghjklmwxcvbn/nbvcxwmlkjhgfdsqpoiuytreza/../../azertyuiopqsdfghjklmwxcvbn/nbvcxwmlkjhgfdsqpoiuytreza/../../azertyuiopqsdfghjklmwxcvbn/nbvcxwmlkjhgfdsqpoiuytreza/../../azertyuiopqsdfghjklmwxcvbn/nbvcxwmlkjhgfdsqpoiuytreza/../../azertyuiopqsdfghjklmwxcvbn/nbvcxwmlkjhgfdsqpoiuytreza/../../azertyuiopqsdfghjklmwxcvbn/nbvcxwmlkjhgfdsqpoiuytreza/../../azertyuiopqsdfghjklmwxcvbn/nbvcxwmlkjhgfdsqpoiuytreza/../../azertyuiopqsdfghjklmwxcvbn/nbvcxwmlkjhgfdsqpoiuytreza/../../azertyuiopqsdfghjklmwxcvbn/nbvcxwmlkjhgfdsqpoiuytreza/../../azertyuiopqsdfghjklmwxcvbn/nbvcxwmlkjhgfdsqpoiuytreza
+touch alo

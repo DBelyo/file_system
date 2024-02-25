@@ -1,0 +1,17 @@
+---------------- print ---------------
+niveau 0 dossier / : 2  fils -> pere  
+=niveau 1 dossier Rep1 : 1  fils -> pere  
+==niveau 2 dossier Rep11 : 1  fils -> pere  Rep1
+===niveau 3 dossier Rep111 : 1  fils -> pere  Rep11
+====niveau 4 fichier file1111 : 0  fils -> pere  Rep111
+=niveau 1 dossier Rep2 : 1  fils -> pere  
+==niveau 2 fichier file21 : 0  fils -> pere  Rep2
+--------------------------------------
+----------------- pwd ----------------
+/Rep2
+--------------------------------------
+---------------- print ---------------
+niveau 0 dossier / : 1  fils -> pere  
+=niveau 1 dossier Rep2 : 1  fils -> pere  
+==niveau 2 fichier file21 : 0  fils -> pere  Rep2
+--------------------------------------

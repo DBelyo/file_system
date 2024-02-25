@@ -1,0 +1,15 @@
+---------------- print ---------------
+niveau 0 dossier / : 2  fils -> pere  
+=niveau 1 dossier Rep1 : 3  fils -> pere  
+==niveau 2 fichier file11 : 0  fils -> pere  Rep1
+==niveau 2 fichier file12 : 0  fils -> pere  Rep1
+==niveau 2 dossier Rep11 : 1  fils -> pere  Rep1
+===niveau 3 fichier file111 : 0  fils -> pere  Rep11
+=niveau 1 dossier Rep2 : 1  fils -> pere  
+==niveau 2 fichier file111 : 0  fils -> pere  Rep2
+--------------------------------------
+---------------- print ---------------
+niveau 0 dossier / : 1  fils -> pere  
+=niveau 1 dossier Rep2 : 1  fils -> pere  
+==niveau 2 fichier file111 : 0  fils -> pere  Rep2
+--------------------------------------

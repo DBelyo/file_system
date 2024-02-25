@@ -1,0 +1,10 @@
+/Rep1/Rep11
+Noeud / (D), 1 fils : Rep1 (D)
+Noeud Rep1 (D), pere : , 1 fils : Rep11 (D)
+Noeud Rep11 (D), pere : Rep1, 1 fils : Rep111 (D)
+Noeud Rep111 (D), pere : Rep11, 0 fils : 
+/Rep1
+Noeud / (D), 1 fils : Rep1 (D)
+Noeud Rep1 (D), pere : , 0 fils : 
+Noeud / (D), 1 fils : Rep1 (D)
+Noeud Rep1 (D), pere : , 0 fils : 

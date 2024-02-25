@@ -1,0 +1,9 @@
+mkdir Rep1
+cd Rep1
+touch file11
+touch file12
+mkdir Rep11
+cd Rep11
+touch file111
+cp /Rep1 Rep111
+print

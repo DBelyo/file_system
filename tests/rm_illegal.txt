@@ -1,0 +1,9 @@
+mkdir uno
+cd uno
+mkdir dos
+cd dos
+ls
+touch gamin
+rm /uno/dos/gamin
+ls
+rm ../../uno

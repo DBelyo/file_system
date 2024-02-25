@@ -1,0 +1,19 @@
+Noeud / (D), 2 fils : Rep1 (D), Rep2 (D)
+Noeud Rep1 (D), pere : , 1 fils : Rep11 (D)
+Noeud Rep11 (D), pere : Rep1, 1 fils : file111 (F)
+Noeud file111 (F), pere : Rep11, 0 fils
+Noeud Rep2 (D), pere : , 0 fils : 
+Noeud / (D), 2 fils : Rep1 (D), Rep2 (D)
+Noeud Rep1 (D), pere : , 1 fils : Rep11 (D)
+Noeud Rep11 (D), pere : Rep1, 1 fils : file111 (F)
+Noeud file111 (F), pere : Rep11, 0 fils
+Noeud Rep2 (D), pere : , 1 fils : Rep12 (D)
+Noeud Rep12 (D), pere : Rep2, 1 fils : file111 (F)
+Noeud file111 (F), pere : Rep12, 0 fils
+Noeud / (D), 2 fils : Rep1 (D), Rep2 (D)
+Noeud Rep1 (D), pere : , 1 fils : Rep11 (D)
+Noeud Rep11 (D), pere : Rep1, 1 fils : file111 (F)
+Noeud file111 (F), pere : Rep11, 0 fils
+Noeud Rep2 (D), pere : , 1 fils : Rep12 (D)
+Noeud Rep12 (D), pere : Rep2, 1 fils : file111 (F)
+Noeud file111 (F), pere : Rep12, 0 fils

@@ -1,0 +1,25 @@
+mkdir Cours
+cd Cours
+mkdir ProjetC
+mkdir Anglais
+cd
+mkdir Td
+cd Td
+mkdir Td1
+mkdir Td2
+cd
+ls
+touch edt
+mkdir Tp
+cd Tp
+mkdir TP1
+cd TP1
+pwd
+touch sujetTp1
+cd
+print
+mv Tp/TP1 Td/TP1
+cd
+rm Td/TP1/sujetTp1
+print
+cp Td/ Td/TP1

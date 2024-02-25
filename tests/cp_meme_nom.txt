@@ -1,0 +1,14 @@
+mkdir uno
+cd uno
+mkdir dos
+cd dos
+mkdir tres
+cd tres
+touch oggy
+ls
+cd ..
+ls
+touch gamin
+ls
+cp tres gamin
+ls

@@ -1,0 +1,61 @@
+---------------- print ---------------
+niveau 0 dossier / : 3  fils -> pere  
+=niveau 1 dossier Rep1 : 2  fils -> pere  
+==niveau 2 dossier Rep11 : 1  fils -> pere  Rep1
+===niveau 3 fichier file111 : 0  fils -> pere  Rep11
+==niveau 2 dossier Rep12 : 2  fils -> pere  Rep1
+===niveau 3 fichier file121 : 0  fils -> pere  Rep12
+===niveau 3 fichier file122 : 0  fils -> pere  Rep12
+=niveau 1 dossier Rep2 : 2  fils -> pere  
+==niveau 2 fichier file21 : 0  fils -> pere  Rep2
+==niveau 2 fichier file22 : 0  fils -> pere  Rep2
+=niveau 1 dossier Rep3 : 1  fils -> pere  
+==niveau 2 dossier Rep31 : 2  fils -> pere  Rep3
+===niveau 3 dossier Rep11 : 1  fils -> pere  Rep31
+====niveau 4 fichier file111 : 0  fils -> pere  Rep11
+===niveau 3 dossier Rep12 : 2  fils -> pere  Rep31
+====niveau 4 fichier file121 : 0  fils -> pere  Rep12
+====niveau 4 fichier file122 : 0  fils -> pere  Rep12
+--------------------------------------
+----------------- ls -----------------
+Rep12 Rep311 
+--------------------------------------
+----------------- pwd ----------------
+/Rep1
+--------------------------------------
+----------------- ls -----------------
+Rep11 Rep12 
+--------------------------------------
+---------------- print ---------------
+niveau 0 dossier / : 3  fils -> pere  
+=niveau 1 dossier Rep1 : 2  fils -> pere  
+==niveau 2 dossier Rep11 : 1  fils -> pere  Rep1
+===niveau 3 fichier file111 : 0  fils -> pere  Rep11
+==niveau 2 dossier Rep12 : 2  fils -> pere  Rep1
+===niveau 3 fichier file121 : 0  fils -> pere  Rep12
+===niveau 3 fichier file122 : 0  fils -> pere  Rep12
+=niveau 1 dossier Rep2 : 2  fils -> pere  
+==niveau 2 fichier file21 : 0  fils -> pere  Rep2
+==niveau 2 fichier file22 : 0  fils -> pere  Rep2
+=niveau 1 dossier Rep3 : 1  fils -> pere  
+==niveau 2 dossier Rep31 : 2  fils -> pere  Rep3
+===niveau 3 dossier Rep12 : 2  fils -> pere  Rep31
+====niveau 4 fichier file121 : 0  fils -> pere  Rep12
+====niveau 4 fichier file122 : 0  fils -> pere  Rep12
+===niveau 3 dossier Rep311 : 0  fils -> pere  Rep31
+--------------------------------------
+---------------- print ---------------
+niveau 0 dossier / : 2  fils -> pere  
+=niveau 1 dossier Rep1 : 2  fils -> pere  
+==niveau 2 dossier Rep11 : 1  fils -> pere  Rep1
+===niveau 3 fichier file111 : 0  fils -> pere  Rep11
+==niveau 2 dossier Rep12 : 2  fils -> pere  Rep1
+===niveau 3 fichier file121 : 0  fils -> pere  Rep12
+===niveau 3 fichier file122 : 0  fils -> pere  Rep12
+=niveau 1 dossier Rep3 : 1  fils -> pere  
+==niveau 2 dossier Rep31 : 2  fils -> pere  Rep3
+===niveau 3 dossier Rep12 : 2  fils -> pere  Rep31
+====niveau 4 fichier file121 : 0  fils -> pere  Rep12
+====niveau 4 fichier file122 : 0  fils -> pere  Rep12
+===niveau 3 dossier Rep311 : 0  fils -> pere  Rep31
+--------------------------------------

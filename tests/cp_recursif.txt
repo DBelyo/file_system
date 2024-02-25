@@ -1,0 +1,8 @@
+mkdir uno
+cd uno
+mkdir dos
+cd dos
+ls
+touch gamin
+ls
+cp ../../uno tres
